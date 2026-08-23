@@ -322,7 +322,7 @@ when the audio is wrong.
 ## Development
 
 ```bash
-git clone https://github.com/syamjithnk/arabic-tts-frontend && cd arabic-tts-frontend
+git clone https://github.com/Syamjith-nk/arabic-tts-frontend && cd arabic-tts-frontend
 pip install -e ".[dev]" && pytest
 ```
 
