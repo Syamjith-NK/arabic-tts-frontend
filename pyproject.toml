@@ -9,7 +9,7 @@ description = "Make Arabic text speakable: numeral verbalisation, a pronunciatio
 readme = "README.md"
 requires-python = ">=3.9"
 license = { file = "LICENSE" }
-authors = [{ name = "Syamjith NK" }]
+authors = [{ name = "Syamjith NK", email = "hello@syamjithnk.com" }]
 keywords = ["arabic", "tts", "text-normalization", "numerals", "diacritization", "nlp", "speech"]
 classifiers = [
   "Development Status :: 4 - Beta",
