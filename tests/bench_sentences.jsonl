@@ -1,0 +1,45 @@
+{"id": "year_2026", "category": "year", "form": "western", "text": "في عام 2026 ارتفعت نسبة المشاركة في البرنامج الوطني.", "expect": "2026"}
+{"id": "year_2026", "category": "year", "form": "arabic_indic", "text": "في عام ٢٠٢٦ ارتفعت نسبة المشاركة في البرنامج الوطني.", "expect": "2026"}
+{"id": "year_2026", "category": "year", "form": "spelled", "text": "في عام ألفين وستة وعشرين ارتفعت نسبة المشاركة في البرنامج الوطني.", "expect": "2026"}
+{"id": "year_1971", "category": "year", "form": "western", "text": "تأسس الاتحاد في عام 1971 وتغير كل شيء بعدها.", "expect": "1971"}
+{"id": "year_1971", "category": "year", "form": "arabic_indic", "text": "تأسس الاتحاد في عام ١٩٧١ وتغير كل شيء بعدها.", "expect": "1971"}
+{"id": "year_1971", "category": "year", "form": "spelled", "text": "تأسس الاتحاد في عام ألف وتسعمائة وواحد وسبعين وتغير كل شيء بعدها.", "expect": "1971"}
+{"id": "pct_47", "category": "percentage", "form": "western", "text": "ارتفعت نسبة البلاغات إلى 47 بالمئة خلال الربع الأول.", "expect": "47"}
+{"id": "pct_47", "category": "percentage", "form": "arabic_indic", "text": "ارتفعت نسبة البلاغات إلى ٤٧ بالمئة خلال الربع الأول.", "expect": "47"}
+{"id": "pct_47", "category": "percentage", "form": "spelled", "text": "ارتفعت نسبة البلاغات إلى سبعة وأربعين بالمئة خلال الربع الأول.", "expect": "47"}
+{"id": "pct_3_5", "category": "decimal", "form": "western", "text": "بلغ معدل النمو 3.5 بالمئة هذا العام.", "expect": "3.5"}
+{"id": "pct_3_5", "category": "decimal", "form": "arabic_indic", "text": "بلغ معدل النمو ٣.٥ بالمئة هذا العام.", "expect": "3.5"}
+{"id": "pct_3_5", "category": "decimal", "form": "spelled", "text": "بلغ معدل النمو ثلاثة وخمسة من عشرة بالمئة هذا العام.", "expect": "3.5"}
+{"id": "count_123", "category": "count", "form": "western", "text": "تم إغلاق 123 قضية خلال ثلاثين يوماً فقط.", "expect": "123"}
+{"id": "count_123", "category": "count", "form": "arabic_indic", "text": "تم إغلاق ١٢٣ قضية خلال ثلاثين يوماً فقط.", "expect": "123"}
+{"id": "count_123", "category": "count", "form": "spelled", "text": "تم إغلاق مئة وثلاث وعشرين قضية خلال ثلاثين يوماً فقط.", "expect": "123"}
+{"id": "count_1500", "category": "count", "form": "western", "text": "شارك أكثر من 1500 موظف في ورش العمل.", "expect": "1500"}
+{"id": "count_1500", "category": "count", "form": "arabic_indic", "text": "شارك أكثر من ١٥٠٠ موظف في ورش العمل.", "expect": "1500"}
+{"id": "count_1500", "category": "count", "form": "spelled", "text": "شارك أكثر من ألف وخمسمائة موظف في ورش العمل.", "expect": "1500"}
+{"id": "money_250", "category": "currency", "form": "western", "text": "بلغت التكلفة 250 درهماً لكل مشارك.", "expect": "250"}
+{"id": "money_250", "category": "currency", "form": "arabic_indic", "text": "بلغت التكلفة ٢٥٠ درهماً لكل مشارك.", "expect": "250"}
+{"id": "money_250", "category": "currency", "form": "spelled", "text": "بلغت التكلفة مئتين وخمسين درهماً لكل مشارك.", "expect": "250"}
+{"id": "money_1200000", "category": "currency", "form": "western", "text": "خصصت الميزانية 1200000 درهم لهذا المشروع.", "expect": "1200000"}
+{"id": "money_1200000", "category": "currency", "form": "arabic_indic", "text": "خصصت الميزانية ١٢٠٠٠٠٠ درهم لهذا المشروع.", "expect": "1200000"}
+{"id": "money_1200000", "category": "currency", "form": "spelled", "text": "خصصت الميزانية مليون ومئتي ألف درهم لهذا المشروع.", "expect": "1200000"}
+{"id": "time_0630", "category": "time", "form": "western", "text": "يبدأ التصوير في الساعة 6:30 صباحاً.", "expect": "6:30"}
+{"id": "time_0630", "category": "time", "form": "arabic_indic", "text": "يبدأ التصوير في الساعة ٦:٣٠ صباحاً.", "expect": "6:30"}
+{"id": "time_0630", "category": "time", "form": "spelled", "text": "يبدأ التصوير في الساعة السادسة والنصف صباحاً.", "expect": "6:30"}
+{"id": "time_1445", "category": "time", "form": "western", "text": "الاجتماع في الساعة 2:45 بعد الظهر.", "expect": "2:45"}
+{"id": "time_1445", "category": "time", "form": "arabic_indic", "text": "الاجتماع في الساعة ٢:٤٥ بعد الظهر.", "expect": "2:45"}
+{"id": "time_1445", "category": "time", "form": "spelled", "text": "الاجتماع في الساعة الثانية وخمس وأربعين دقيقة بعد الظهر.", "expect": "2:45"}
+{"id": "date_28_08", "category": "date", "form": "western", "text": "يصادف يوم المرأة الإماراتية 28 أغسطس من كل عام.", "expect": "28"}
+{"id": "date_28_08", "category": "date", "form": "arabic_indic", "text": "يصادف يوم المرأة الإماراتية ٢٨ أغسطس من كل عام.", "expect": "28"}
+{"id": "date_28_08", "category": "date", "form": "spelled", "text": "يصادف يوم المرأة الإماراتية الثامن والعشرين من أغسطس من كل عام.", "expect": "28"}
+{"id": "phone_971", "category": "phone", "form": "western", "text": "للاستفسار يرجى الاتصال على الرقم 800 555.", "expect": "800 555"}
+{"id": "phone_971", "category": "phone", "form": "arabic_indic", "text": "للاستفسار يرجى الاتصال على الرقم ٨٠٠ ٥٥٥.", "expect": "800 555"}
+{"id": "phone_971", "category": "phone", "form": "spelled", "text": "للاستفسار يرجى الاتصال على الرقم ثمانمائة خمسة خمسة خمسة.", "expect": "800 555"}
+{"id": "ord_3", "category": "ordinal", "form": "western", "text": "حصل الفريق على المركز 3 على مستوى الدولة.", "expect": "3"}
+{"id": "ord_3", "category": "ordinal", "form": "arabic_indic", "text": "حصل الفريق على المركز ٣ على مستوى الدولة.", "expect": "3"}
+{"id": "ord_3", "category": "ordinal", "form": "spelled", "text": "حصل الفريق على المركز الثالث على مستوى الدولة.", "expect": "3"}
+{"id": "range_10_15", "category": "range", "form": "western", "text": "تستغرق العملية من 10 إلى 15 دقيقة.", "expect": "10 إلى 15"}
+{"id": "range_10_15", "category": "range", "form": "arabic_indic", "text": "تستغرق العملية من ١٠ إلى ١٥ دقيقة.", "expect": "10 إلى 15"}
+{"id": "range_10_15", "category": "range", "form": "spelled", "text": "تستغرق العملية من عشر إلى خمس عشرة دقيقة.", "expect": "10 إلى 15"}
+{"id": "big_674", "category": "count", "form": "western", "text": "تمت مراجعة 674 ملفاً قبل التسليم النهائي.", "expect": "674"}
+{"id": "big_674", "category": "count", "form": "arabic_indic", "text": "تمت مراجعة ٦٧٤ ملفاً قبل التسليم النهائي.", "expect": "674"}
+{"id": "big_674", "category": "count", "form": "spelled", "text": "تمت مراجعة ستمائة وأربعة وسبعين ملفاً قبل التسليم النهائي.", "expect": "674"}

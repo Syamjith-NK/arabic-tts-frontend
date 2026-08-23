@@ -1,0 +1,2 @@
+[console_scripts]
+arabic-tts-frontend = arabic_tts_frontend.cli:main
