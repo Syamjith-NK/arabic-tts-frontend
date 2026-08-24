@@ -5,7 +5,14 @@
 Shipping Arabic TTS engines do not read numbers reliably. Measured on 45 sentences
 through Fish Audio: **23/45** numbers survived synthesis intact, and on Arabic-Indic
 digits (`٢٠٢٦`) **0/15** did. Putting this package in front of the same engine, same
-model, same ASR, same scorer, took that to **37/45** and **12/15**.
+model, same ASR, same scorer, took that to **34/45** and **11/15**.
+
+Run-to-run noise on a 45-sentence set is about ±3, so treat the overall figure as
+indicative and the digit-form result — **0/15 → 11/15** — as the finding. The
+[measurement section](#the-shipped-code-has-now-been-re-measured-2026-08-24) shows both
+runs and explains the difference rather than quoting the flattering number.
+
+By [Syamjith NK](https://syamjithnk.com) — Abu Dhabi.
 
 ```bash
 pip install arabic-tts-frontend
